@@ -1,0 +1,135 @@
+[
+    {
+        "name":"ZNMD",
+        "media type" : ["Video", "Image"],
+        "genre" : ["drama","comedy"],
+        "ratings" : "8.5",
+        "cast" : [
+            {
+                "actor" : "Hritik Roshan",
+                "role" : "Arjun Saluja",
+                "skills" : ["dance","acting"]
+            },
+            {
+                "actor" : "Farhan Akhtar",
+                "role" : "Imraan Qureshi",
+                "skills" : ["dance","acting","singing"]
+            },
+            {
+                "actor" : "Abhay Deol",
+                "role" : "Kabir Dewan",
+                "skills" : ["acting"]
+            },
+            {
+                "actor" : "Katrina Kaif",
+                "role" : "Lailla",
+                "skills" : ["dance","acting"]
+            }
+
+        ]
+    },
+    {
+        "name":"3 Idiots",
+        "media type" : ["Video", "Image"],
+        "genre" : ["drama","comedy"],
+        "ratings" : "9.2",
+        "cast" : [
+            {
+                "actor" : "Aamir Khan",
+                "role" : "Rancho",
+                "skills" : ["acting"]
+            },
+            {
+                "actor" : "R. Madhavan",
+                "role" : "Farhan",
+                "skills" : ["dance","acting"]
+            },
+            {
+                "actor" : "Sharman Joshi",
+                "role" : "Raju Rastogi",
+                "skills" : ["acting","dance"]
+            },
+            {
+                "actor" : "Kareena Kapoor",
+                "role" : "Pia",
+                "skills" : ["dance","acting"]
+            }
+
+        ]
+    },
+    {
+        "name":"Life of Pi",
+        "media type" : ["Video", "Image"],
+        "genre" : ["drama","advanture"],
+        "ratings" : "9.4",
+        "cast" : [
+            {
+                "actor" : "Irrfan Khan",
+                "role" : "Adult Pi Patel",
+                "skills" : ["dance","acting"]
+            },
+            {
+                "actor" : "Suraj Sharma",
+                "role" : "Teenage Pi patel",
+                "skills" : ["dance","acting","singing"]
+            },
+            {
+                "actor" : "Tabu",
+                "role" : "Gita Patel",
+                "skills" : ["acting","dance"]
+            }
+        ]
+    },
+    {
+        "name":"Amazing Spider Man",
+        "media type" : ["Video", "Image"],
+        "genre" : ["drama","comedy"],
+        "ratings" : "9.5",
+        "cast" : [
+            {
+                "actor" : "Andrew Garfield",
+                "role" : "Spider Man",
+                "skills" : ["dance","acting"]
+            },
+            {
+                "actor" : "Stan Lee",
+                "role" : "Librarian",
+                "skills" : ["Direction","acting","singing"]
+            },
+            {
+                "actor" : "Emma Stone",
+                "role" : "Gwen Stacy",
+                "skills" : ["acting","dance"]
+            }
+        ]
+    },
+    {
+        "name":"Civil War",
+        "media type" : ["Video", "Image"],
+        "genre" : ["drama","comedy"],
+        "ratings" : "9.6",
+        "cast" : [
+            {
+                "actor" : "Chris Evans",
+                "role" : "Captain America",
+                "skills" : ["dance","acting"]
+            },
+            {
+                "actor" : "Robert Downy Jr.",
+                "role" : "Iron Man",
+                "skills" : ["dance","acting","singing"]
+            },
+            {
+                "actor" : "Anthony Mackie",
+                "role" : "Falcon",
+                "skills" : ["acting"]
+            },
+            {
+                "actor" : "Scarlett Johansson",
+                "role" : "Black Widow",
+                "skills" : ["dance","acting"]
+            }
+
+        ]
+    }
+]
